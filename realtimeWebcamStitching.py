@@ -1,7 +1,5 @@
-import numpy as np
 import cv2 as cv
-import imutils
-from stitchedpanorama import Stitcher
+from StitchingModul import Stitcher
 
 print("Starting Cameras..")
 
